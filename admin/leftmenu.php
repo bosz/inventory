@@ -59,7 +59,7 @@
                             <a href="#"><i class="fa fa-book fa-fw"></i> Customers<span class="fa arrow"></span></a>
                             <ul class="nav nav-second-level">
                                 <li>
-                                    <a href="Customers.php">All Customers</a>
+                                    <a href="customers.php">All Customers</a>
                                 </li>
                                 <li>
                                     <a href="buy-product.php">Buy Product</a>
